@@ -8,7 +8,7 @@
 - 🌱 Budding Full Stack Developer.
 - 🔭 Want to learn anything that looks intresting to me.
 - 😄 Currently contributing as a **GSoC'21** and **MLH'21** fellow.
-- ⚡ Fun fact: I like to sketch and dance.
+- ⚡ Fun fact: I love to sketch and dance!
 
 <br />
 
