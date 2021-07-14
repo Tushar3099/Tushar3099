@@ -30,5 +30,5 @@
 </p>
 
 <p align="center">
-  ![](https://visitor-badge.laobi.icu/badge?page_id=Tushar3099)
+  ![](https://komarev.com/ghpvc/?username=Tushar3099&label=Visitor&style=plastic&color=blue)
 </p>
