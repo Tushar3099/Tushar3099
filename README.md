@@ -2,8 +2,7 @@
 
 ## I am Tushar Neogi👋
 
-
-### Currently an IT undergrad from [IIIT Gwalior](https://www.iiitm.ac.in/index.php/en/)!!
+#### Currently an IT undergrad from [IIIT Gwalior](https://www.iiitm.ac.in/index.php/en/)!!
 
 - 🌱 Budding Full Stack Developer.
 - 🔭 Want to learn anything that looks intresting to me.
@@ -14,13 +13,6 @@
 
 ![Tushar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tushar3099&show_icons=true&theme=radical)
 
-<!-- Here are some ideas to get you started:
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tushar3099&layout=compact)
 
-- I’m currently working on ...
-- I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- ...
-- ... -->
+### 📫 You can find me on [!linkedIn - Tushar](https://www.edigitalagency.com.au/wp-content/uploads/Linkedin-logo-icon-png.png)](https://www.linkedin.com/in/tushar3024/)
