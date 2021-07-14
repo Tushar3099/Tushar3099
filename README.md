@@ -18,6 +18,9 @@
 ##
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/tushar3024/"><img src="https://image.flaticon.com/icons/png/512/174/174857.png" alt="linkedIn" width="50"/></a>   
-  <a href="https://www.instagram.com/tushar_30gn/"><img src="https://www.freepnglogos.com/uploads/instagram-logos-png-images-free-download-2.png" alt="instagram" width="50"/></a>
+  <p align="center">
+    You can find me here
+  </p>
+  <a href="https://www.linkedin.com/in/tushar3024/"><img src="https://image.flaticon.com/icons/png/512/174/174857.png" alt="linkedIn" width="40"/></a>   
+  <a href="https://www.instagram.com/tushar_30gn/"><img src="https://www.freepnglogos.com/uploads/instagram-logos-png-images-free-download-2.png" alt="instagram" width="40"/></a>
 </p>
