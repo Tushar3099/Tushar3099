@@ -15,4 +15,4 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tushar3099&layout=compact)
 
-### 📫 You can find me on [![linkedIn - Tushar](https://www.edigitalagency.com.au/wp-content/uploads/Linkedin-logo-icon-png.png =250px)](https://www.linkedin.com/in/tushar3024/)
+### 📫 You can find me on <a href="https://www.linkedin.com/in/tushar3024/"><img src="https://www.edigitalagency.com.au/wp-content/uploads/Linkedin-logo-icon-png.png" alt="linkedIn" width="250"/></a>
