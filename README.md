@@ -3,7 +3,6 @@
 ## I am Tushar Neogi👋
 
 <br />
-
 ### Currently an IT undergrad from [IIIT Gwalior](https://www.iiitm.ac.in/index.php/en/)!!
 
 - 🌱 Budding Full Stack Developer.
