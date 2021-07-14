@@ -11,6 +11,8 @@
 
 <br />
 
+![](https://komarev.com/ghpvc/?username=Tushar3099)
+
 ![Tushar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tushar3099&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tushar3099&layout=compact)
@@ -29,6 +31,5 @@
   <a href="https://twitter.com/neogi_tushar"><img src="https://image.flaticon.com/icons/png/512/733/733579.png" alt="twitter" width="30"/></a>
 </p>
 
-<p align="center">
-  ![](https://komarev.com/ghpvc/?username=Tushar3099)
-</p>
+
+
