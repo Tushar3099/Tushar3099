@@ -26,5 +26,7 @@
   <a href="https://www.linkedin.com/in/tushar3024/"><img src="https://image.flaticon.com/icons/png/512/174/174857.png" alt="linkedIn" width="40"/></a>
   &nbsp; &nbsp; &nbsp;
   <a href="https://www.instagram.com/tushar_30gn/"><img src="https://image.flaticon.com/icons/png/512/2111/2111463.png" alt="instagram" width="40"/></a>
+  &nbsp; &nbsp; &nbsp;
+  <a href="https://twitter.com/neogi_tushar"><img src="https://image.flaticon.com/icons/png/512/733/733579.png" alt="twitter" width="40"/></a>
 </p>
 
