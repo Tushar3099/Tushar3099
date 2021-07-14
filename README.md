@@ -9,7 +9,6 @@
 - 😄 Currently contributing as a **GSoC'21** and **MLH'21** fellow.
 - ⚡ Fun fact: I love to sketch and dance!
 
-<br />
 
 ![](https://komarev.com/ghpvc/?username=Tushar3099)
 
