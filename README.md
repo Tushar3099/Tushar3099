@@ -18,6 +18,6 @@
 ##
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/tushar3024/"><img src="https://banner2.cleanpng.com/20171202/f59/linkedin-download-png-5a22d420d16602.1978549215122319688577.jpg" alt="linkedIn" width="50"/></a>   
+  <a href="https://www.linkedin.com/in/tushar3024/"><img src="https://image.similarpng.com/very-thumbnail/2020/07/Linkedin-logo-on-transparent-Background-PNG-.png" alt="linkedIn" width="50"/></a>   
   <a href="https://www.instagram.com/tushar_30gn/"><img src="https://www.freepnglogos.com/uploads/instagram-logos-png-images-free-download-2.png" alt="instagram" width="50"/></a>
 </p>
