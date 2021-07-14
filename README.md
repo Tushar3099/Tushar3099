@@ -18,6 +18,6 @@
 ---
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/tushar3024/"><img src="https://www.edigitalagency.com.au/wp-content/uploads/Linkedin-logo-icon-png.png" alt="linkedIn" width="75"/></a>
-  <a href="https://www.instagram.com/tushar_30gn/"><img src="https://www.edigitalagency.com.au/wp-content/uploads/instagram-logo-svg-vector-for-print.svg" alt="linkedIn" width="75"/></a>
+  <a href="https://www.linkedin.com/in/tushar3024/"><img src="https://image.similarpng.com/very-thumbnail/2020/07/Linkedin-logo-on-transparent-Background-PNG-.png" alt="linkedIn" width="50"/></a>   
+  <a href="https://www.instagram.com/tushar_30gn/"><img src="https://www.freepnglogos.com/uploads/instagram-logos-png-images-free-download-2.png" alt="linkedIn" width="50"/></a>
 </p>
