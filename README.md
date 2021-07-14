@@ -30,5 +30,5 @@
 </p>
 
 <p align="center">
-  ![](https://komarev.com/ghpvc/?username=Tushar3099&label=Visitor&style=plastic&color=blue)
+  ![](https://komarev.com/ghpvc/?username=Tushar3099)
 </p>
