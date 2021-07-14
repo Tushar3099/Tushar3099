@@ -17,7 +17,6 @@
 
 ##
 
-
 <!-- <p align="center">
   You can find me here
 </p> -->
@@ -30,3 +29,6 @@
   <a href="https://twitter.com/neogi_tushar"><img src="https://image.flaticon.com/icons/png/512/733/733579.png" alt="twitter" width="30"/></a>
 </p>
 
+<p align="center">
+  ![](https://visitor-badge.laobi.icu/badge?page_id=Tushar3099)
+</p>
