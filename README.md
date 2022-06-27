@@ -6,7 +6,8 @@
 
 - 🤖 Interested in Software Devlopment, Design Patterns and Agile methedologies.
 - 🖥 Love building Backend and Frontend, solving and optimizing problems.
-- 💻 Backend Engineering Intern @Pratilipi
+- 🚀 SDE Intern @Shipsy
+- 💻 Ex-SDE(Backend) Intern @Pratilipi
 - 💡 Google Summer of Code 2021 @BenchRoutes organzation
 - 🔮 Major League Hacking Fellow 2021(Summer)
 
@@ -25,12 +26,15 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tushar3099&layout=compact)
 
 <br>
+
+---
+
 <br>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/tushar3024/"><img src="https://image.flaticon.com/icons/png/512/174/174857.png" alt="linkedIn" width="30"/></a>
+  <a href="https://www.linkedin.com/in/tushar3024/"><img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" alt="linkedIn" width="30"/></a>
   &nbsp; &nbsp; &nbsp;
-  <a href="https://www.instagram.com/tushar_30gn/"><img src="https://image.flaticon.com/icons/png/512/2111/2111463.png" alt="instagram" width="30"/></a>
+  <a href="mailto: tusharneogi3099@gmail.com"><img src="https://cdn1.iconfinder.com/data/icons/google-new-logos-1/32/gmail_new_logo-512.png" alt="Gmail" width="30"/></a>
   &nbsp; &nbsp; &nbsp;
-  <a href="https://twitter.com/neogi_tushar"><img src="https://image.flaticon.com/icons/png/512/733/733579.png" alt="twitter" width="30"/></a>
+  <a href="https://twitter.com/neogi_tushar"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter3_colored_svg-512.png" alt="Twitter" width="30"></a>
 </p>
